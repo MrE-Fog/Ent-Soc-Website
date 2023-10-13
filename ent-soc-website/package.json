@@ -9,6 +9,6 @@
     "meteor-node-stubs": "~0.2.4",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
-    "request": "^2.82.0"
+    "request": "^2.88.2"
   }
 }
